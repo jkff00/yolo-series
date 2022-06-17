@@ -1,0 +1,691 @@
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1).jpg 154,335,317,506,0 30,454,58,515,0 57,298,104,326,0 262,195,382,321,0 435,4,584,293,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(10).jpg 17,81,46,113,0 137,25,218,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(100).jpg 53,21,116,78,0 44,124,124,155,0 131,66,210,104,0 239,79,290,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1003).jpg 107,113,259,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1005).jpg 156,164,169,178,0 64,161,72,169,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1006).jpg 2,102,264,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1008).jpg 34,207,73,224,0 13,189,26,203,0 59,141,141,187,0 183,150,222,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1009).jpg 84,145,96,158,0 137,92,201,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1010).jpg 0,46,81,168,0 170,53,204,102,0 227,28,300,95,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1011).jpg 39,131,139,168,0 139,97,168,164,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1013).jpg 90,143,116,180,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1014).jpg 4,110,84,167,0 89,112,186,142,0 271,114,300,159,0 242,35,256,45,0 200,86,223,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1015).jpg 44,2,204,34,0 222,31,259,60,0 3,89,311,155,0 98,37,217,87,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1017).jpg 748,281,803,329,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1018).jpg 305,70,444,326,0 44,252,199,330,0 487,121,575,267,0 585,214,620,330,0 228,258,288,340,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1019).jpg 49,113,156,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(102).jpg 14,54,66,127,0 123,69,166,127,0 174,44,252,126,0 87,31,116,124,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1020).jpg 522,368,571,409,0 267,363,301,379,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1021).jpg 213,241,302,312,0 358,230,712,287,0 729,277,808,305,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1023).jpg 694,449,830,598,0 822,313,900,414,0 859,17,900,119,0 114,275,230,424,0 331,296,592,511,0 572,150,692,334,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1024).jpg 93,75,136,106,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1025).jpg 329,185,415,261,0 244,182,312,234,0 23,113,118,174,0 436,159,497,217,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1026).jpg 146,101,188,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1027).jpg 51,157,278,383,0 1320,70,1426,247,0 1149,83,1269,226,0 985,81,1134,233,0 374,258,423,392,0 469,0,887,359,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1028).jpg 1250,477,1792,777,0 1796,810,1901,900,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1029).jpg 261,309,348,364,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1030).jpg 73,338,122,405,0 0,385,26,431,0 459,257,493,297,0 389,296,428,347,0 287,344,320,373,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1031).jpg 1036,565,1206,744,0 833,594,987,747,0 778,115,956,567,0 238,296,488,565,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1032).jpg 95,455,239,726,0 358,679,812,807,0 995,344,1153,676,0 633,295,805,460,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1033).jpg 166,88,180,107,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1035).jpg 152,46,176,99,0 199,86,213,111,0 182,111,194,132,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1037).jpg 47,107,78,115,0 159,73,225,112,0 242,113,259,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1038).jpg 125,40,140,71,0 66,29,110,74,0 4,19,59,43,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1039).jpg 45,220,96,463,0 377,114,468,219,0 496,172,546,476,0 202,236,289,357,0 398,294,446,454,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(104).jpg 92,41,119,116,0 213,134,227,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1040).jpg 30,177,155,264,0 199,88,345,141,0 51,118,162,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1043).jpg 429,174,509,294,0 559,204,640,360,0 497,293,551,360,0 0,146,414,278,0 128,326,333,360,0 334,283,409,322,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1044).jpg 151,84,240,99,0 32,102,40,114,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1045).jpg 120,59,157,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1046).jpg 581,103,669,451,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1049).jpg 7,159,28,178,0 47,159,72,184,0 79,154,116,180,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1051).jpg 177,119,220,131,0 128,120,167,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1052).jpg 48,48,60,54,0 94,65,124,76,0 205,31,231,39,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1053).jpg 720,458,971,703,0 3,389,128,584,0 189,451,670,636,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1056).jpg 677,326,811,421,0 554,356,583,381,0 305,298,363,342,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1057).jpg 150,124,191,147,0 113,131,131,145,0 56,128,74,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1059).jpg 197,112,531,285,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1060).jpg 106,84,291,313,0 704,240,800,411,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1063).jpg 0,148,81,166,0 90,151,161,172,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1064).jpg 115,67,140,87,0 128,114,164,126,0 210,87,258,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1065).jpg 234,49,292,123,0 84,1,219,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1069).jpg 49,73,132,114,0 153,63,228,112,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1070).jpg 1,52,48,157,0 112,37,185,150,0 209,97,259,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1071).jpg 26,106,52,142,0 72,88,124,129,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1072).jpg 116,276,151,315,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1073).jpg 145,108,184,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1074).jpg 148,294,193,343,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1075).jpg 256,133,283,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1076).jpg 114,74,157,111,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1077).jpg 55,27,98,153,0 127,20,269,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1078).jpg 2,17,67,159,0 140,20,160,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1079).jpg 0,138,36,179,0 118,80,180,174,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(108).jpg 87,113,104,132,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1080).jpg 2,16,106,71,0 227,35,275,72,0 261,78,275,107,0 124,51,134,76,0 149,61,166,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1081).jpg 0,142,39,170,0 114,160,258,177,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1082).jpg 81,37,147,74,0 152,60,315,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1083).jpg 223,68,258,89,0 146,64,214,83,0 136,119,170,160,0 94,152,119,173,0 30,125,75,158,0 61,162,87,175,0 122,145,135,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1087).jpg 0,6,17,28,0 36,20,66,98,0 75,5,112,35,0 1,126,33,161,0 0,80,23,98,0 137,24,155,67,0 287,74,309,136,0 48,98,158,136,0 69,133,258,160,0 177,90,260,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1088).jpg 37,64,61,98,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1090).jpg 158,0,193,84,0 225,16,258,59,0 138,65,156,118,0 182,99,214,146,0 268,0,293,37,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1091).jpg 154,22,191,62,0 109,77,178,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1092).jpg 156,142,192,165,0 116,67,150,129,0 62,30,108,82,0 22,6,45,23,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1093).jpg 0,21,78,128,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1094).jpg 6,25,299,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1095).jpg 20,18,73,118,0 92,22,146,100,0 150,43,195,91,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1097).jpg 77,95,122,136,0 134,4,215,128,0 281,64,291,96,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1098).jpg 8,85,45,172,0 79,51,117,158,0 170,24,207,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1099).jpg 102,78,154,153,0 158,106,262,159,0 290,86,318,149,0 0,81,41,152,0 202,71,240,86,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(11).jpg 89,162,253,219,0 285,148,320,242,0 349,122,549,366,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(110).jpg 165,92,220,130,0 243,124,271,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1100).jpg 108,150,161,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(1101).jpg 118,60,150,119,0 164,54,249,121,0 53,89,111,112,0 0,88,49,127,0 25,33,39,80,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(113).jpg 48,3,208,164,0 14,118,44,157,0 213,32,281,161,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(114).jpg 74,141,214,160,0 208,108,283,137,0 4,100,88,128,0 98,103,208,135,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(115).jpg 124,106,177,114,0 104,48,241,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(117).jpg 90,3,200,53,0 186,58,278,82,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(118).jpg 144,9,175,59,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(119).jpg 16,64,87,122,0 107,56,153,115,0 168,90,224,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(12).jpg 31,52,129,146,0 137,0,290,65,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(120).jpg 37,72,261,94,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(122).jpg 60,5,203,181,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(123).jpg 133,126,154,138,0 93,128,112,150,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(124).jpg 70,47,111,104,0 0,63,60,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(126).jpg 69,22,148,149,0 196,114,259,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(127).jpg 113,73,267,130,0 0,116,21,135,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(128).jpg 56,43,133,88,0 141,74,204,123,0 251,119,275,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(131).jpg 6,129,20,143,0 82,82,110,113,0 126,78,147,99,0 195,79,212,98,0 267,35,275,54,0 226,63,244,81,0 30,105,42,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(133).jpg 218,102,254,132,0 174,111,184,119,0 93,93,116,107,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(134).jpg 84,12,180,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(136).jpg 231,37,296,141,0 0,5,84,153,0 166,113,215,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(139).jpg 63,135,103,152,0 111,117,155,140,0 168,106,192,133,0 216,104,254,133,0 0,44,45,104,0 50,51,120,92,0 181,46,204,93,0 212,42,256,94,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(14).jpg 15,58,243,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(142).jpg 114,39,223,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(143).jpg 40,105,135,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(144).jpg 166,52,181,116,0 210,145,233,168,0 109,114,151,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(145).jpg 52,73,132,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(146).jpg 220,66,268,110,0 97,63,139,81,0 46,150,62,159,0 167,115,197,127,0 206,111,229,122,0 275,48,297,63,0 203,24,226,38,0 63,75,84,87,0 84,84,92,106,0 39,114,59,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(147).jpg 12,33,254,153,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(150).jpg 192,16,300,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(152).jpg 80,56,162,156,0 190,103,238,172,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(153).jpg 63,134,138,164,0 195,73,230,95,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(155).jpg 172,120,191,136,0 180,74,191,97,0 197,102,219,112,0 122,78,161,99,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(159).jpg 205,51,230,91,0 244,33,266,86,0 269,27,331,88,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(160).jpg 0,108,67,120,0 62,120,88,144,0 155,148,250,167,0 62,148,137,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(161).jpg 194,84,255,184,0 96,1,151,184,0 158,2,225,81,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(162).jpg 169,64,203,123,0 175,119,243,153,0 96,57,148,135,0 63,41,77,114,0 42,54,60,119,0 51,121,93,132,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(163).jpg 56,141,73,160,0 79,128,100,146,0 100,152,135,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(164).jpg 196,96,244,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(165).jpg 50,42,142,155,0 148,60,215,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(166).jpg 1,67,50,131,0 55,77,139,159,0 144,67,214,137,0 196,15,259,70,0 218,95,259,175,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(167).jpg 239,79,260,95,0 90,70,102,78,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(168).jpg 26,113,39,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(170).jpg 238,93,275,121,0 85,124,131,164,0 38,42,54,71,0 163,76,183,97,0 193,147,214,158,0 156,126,173,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(171).jpg 0,185,25,195,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(172).jpg 115,108,148,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(174).jpg 113,110,163,151,0 168,80,180,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(175).jpg 53,37,73,73,0 180,33,256,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(176).jpg 78,40,156,116,0 150,4,190,23,0 223,65,252,96,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(18).jpg 1,122,33,155,0 36,114,80,171,0 87,150,135,169,0 164,109,201,167,0 239,110,278,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(180).jpg 151,5,180,224,0 98,90,132,222,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(181).jpg 50,161,58,167,0 123,142,144,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(182).jpg 6,77,61,100,0 117,103,170,122,0 191,120,249,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(183).jpg 144,96,284,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(185).jpg 0,161,68,226,0 138,157,188,199,0 105,202,212,226,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(186).jpg 0,87,32,102,0 77,78,120,103,0 186,78,271,104,0 168,26,180,45,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(187).jpg 207,32,273,108,0 134,1,201,106,0 47,71,131,102,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(19).jpg 0,109,48,146,0 38,66,98,103,0 159,115,188,130,0 52,108,98,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(190).jpg 2,102,31,129,0 36,120,70,134,0 83,132,101,145,0 247,146,276,172,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(191).jpg 213,77,274,132,0 79,49,152,123,0 54,87,75,110,0 104,148,129,168,0 160,104,195,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(192).jpg 27,150,55,177,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(193).jpg 1,81,78,177,0 185,81,230,172,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(194).jpg 189,31,216,144,0 143,62,186,157,0 86,47,134,152,0 0,114,84,152,0 54,158,120,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(196).jpg 111,83,146,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(197).jpg 45,102,75,114,0 50,82,88,97,0 91,85,121,97,0 177,123,208,142,0 223,140,237,160,0 131,45,162,63,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(198).jpg 18,122,45,136,0 49,114,97,134,0 138,131,169,146,0 210,115,232,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(2).jpg 103,126,143,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(20).jpg 179,86,267,160,0 8,0,150,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(200).jpg 223,118,242,137,0 276,128,282,139,0 154,132,168,140,0 103,144,128,154,0 1,89,26,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(201).jpg 282,43,299,59,0 215,76,231,87,0 152,22,184,58,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(203).jpg 84,101,123,164,0 128,93,179,110,0 216,97,257,114,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(204).jpg 5,24,83,183,0 87,37,179,180,0 182,25,273,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(205).jpg 210,92,258,194,0 137,81,207,194,0 58,39,135,194,0 7,103,42,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(206).jpg 0,0,23,160,0 30,28,54,81,0 115,127,136,160,0 154,37,179,160,0 208,2,230,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(207).jpg 74,136,146,147,0 132,14,180,40,0 215,30,266,57,0 266,40,300,83,0 153,138,235,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(208).jpg 3,7,70,158,0 143,0,235,167,0 240,72,301,167,0 70,52,139,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(209).jpg 17,43,69,77,0 104,56,154,82,0 188,47,231,66,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(21).jpg 48,156,74,173,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(210).jpg 18,78,109,85,0 32,88,118,93,0 58,98,129,108,0 135,89,199,106,0 228,101,300,115,0 230,133,261,144,0 225,118,246,125,0 269,119,300,130,0 162,112,190,122,0 104,112,157,134,0 181,124,201,138,0 125,150,164,165,0 186,152,206,167,0 281,142,299,153,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(211).jpg 71,70,96,87,0 98,63,119,86,0 140,74,154,86,0 203,68,215,87,0 222,79,245,95,0 260,73,273,90,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(212).jpg 119,96,139,125,0 66,50,105,136,0 41,50,58,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(213).jpg 182,42,217,166,0 228,126,270,167,0 139,141,179,167,0 57,87,119,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(215).jpg 40,135,78,166,0 100,107,156,141,0 129,146,153,161,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(218).jpg 3,145,54,165,0 100,145,120,154,0 1,60,32,97,0 0,18,28,53,0 23,4,128,18,0 195,126,242,150,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(219).jpg 47,151,70,170,0 153,139,169,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(220).jpg 194,92,247,115,0 278,101,299,123,0 88,121,132,130,0 95,43,123,67,0 77,93,96,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(222).jpg 80,47,110,74,0 119,67,177,84,0 194,33,221,71,0 239,71,252,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(224).jpg 81,117,156,152,0 60,104,79,143,0 0,111,12,129,0 165,135,209,175,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(225).jpg 149,161,207,178,0 2,151,127,179,0 242,164,281,180,0 131,2,281,158,0 65,62,130,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(226).jpg 0,164,73,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(227).jpg 207,86,275,118,0 65,96,125,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(229).jpg 1,92,14,133,0 43,90,75,112,0 90,110,100,129,0 203,121,218,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(23).jpg 122,92,167,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(230).jpg 56,148,89,169,0 134,155,192,163,0 103,173,153,177,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(231).jpg 30,104,69,137,0 191,93,237,125,0 0,123,11,134,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(232).jpg 86,29,142,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(233).jpg 9,62,41,87,0 60,71,114,100,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(234).jpg 175,0,297,70,0 81,0,168,86,0 2,52,77,132,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(235).jpg 141,8,285,93,0 194,119,224,159,0 68,87,156,149,0 15,104,45,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(236).jpg 204,108,243,135,0 55,61,193,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(238).jpg 2,119,36,140,0 159,56,223,133,0 252,83,275,135,0 136,133,223,167,0 47,103,132,159,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(239).jpg 201,136,300,168,0 109,131,189,168,0 21,147,106,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(240).jpg 0,93,10,120,0 16,120,116,158,0 25,7,100,118,0 118,26,172,112,0 179,7,283,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(241).jpg 4,116,48,144,0 81,121,119,147,0 123,65,151,143,0 164,101,203,143,0 223,96,290,149,0 62,74,71,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(243).jpg 75,11,188,156,0 3,48,73,118,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(244).jpg 0,109,54,123,0 88,100,152,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(247).jpg 100,118,129,140,0 178,78,196,126,0 213,87,227,123,0 234,100,254,129,0 138,76,154,114,0 149,36,163,50,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(250).jpg 209,95,235,119,0 207,124,227,133,0 131,135,147,148,0 227,142,256,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(251).jpg 45,32,268,82,0 111,88,248,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(254).jpg 98,41,107,97,0 37,147,55,164,0 4,158,31,168,0 206,148,223,163,0 110,157,122,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(255).jpg 66,0,160,201,0 16,60,62,197,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(256).jpg 35,93,97,160,0 114,78,152,153,0 160,97,207,159,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(257).jpg 46,27,61,41,0 86,46,106,59,0 95,57,150,108,0 142,124,165,139,0 191,120,221,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(258).jpg 105,88,141,105,0 153,88,172,99,0 188,97,205,107,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(259).jpg 18,1,175,170,0 203,35,293,78,0 179,80,266,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(26).jpg 16,81,60,105,0 84,81,133,99,0 138,76,208,99,0 215,93,295,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(260).jpg 238,140,257,157,0 109,92,259,116,0 14,74,103,115,0 96,119,213,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(262).jpg 103,2,191,154,0 53,137,66,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(264).jpg 34,51,76,98,0 112,68,258,111,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(266).jpg 175,64,209,94,0 211,60,254,95,0 62,63,126,82,0 128,57,152,84,0 21,73,40,79,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(268).jpg 12,128,64,175,0 72,86,138,150,0 208,99,260,136,0 144,123,159,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(269).jpg 112,111,130,129,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(27).jpg 82,154,143,195,0 31,153,80,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(270).jpg 260,111,295,138,0 25,97,171,141,0 117,133,167,168,0 153,77,245,110,0 58,67,90,87,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(271).jpg 130,54,158,144,0 163,78,252,157,0 17,58,37,91,0 24,128,47,152,0 80,94,89,108,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(272).jpg 0,9,83,118,0 87,1,308,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(274).jpg 172,26,208,56,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(275).jpg 21,47,65,62,0 69,64,144,79,0 118,90,155,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(276).jpg 227,48,300,121,0 93,42,226,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(278).jpg 46,37,85,109,0 124,94,215,135,0 0,88,31,128,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(279).jpg 14,114,51,139,0 59,85,158,121,0 163,65,200,97,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(28).jpg 0,23,69,136,0 80,6,271,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(283).jpg 79,72,98,159,0 126,93,179,166,0 208,123,228,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(285).jpg 21,32,54,49,0 117,19,140,39,0 159,34,205,55,0 227,30,280,65,0 112,48,142,59,0 86,60,119,71,0 6,63,66,72,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(286).jpg 37,94,84,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(288).jpg 26,74,50,98,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(289).jpg 109,54,156,67,0 2,77,28,85,0 50,84,106,176,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(29).jpg 175,71,247,135,0 21,65,50,76,0 139,106,166,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(293).jpg 2,76,76,131,0 80,96,274,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(294).jpg 191,100,273,123,0 103,67,154,102,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(295).jpg 23,42,72,96,0 91,10,202,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(297).jpg 52,120,179,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(298).jpg 58,76,85,90,0 27,103,67,120,0 235,72,286,104,0 121,98,233,113,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(30).jpg 13,73,79,155,0 104,80,163,158,0 182,95,239,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(301).jpg 168,13,253,159,0 106,56,168,158,0 55,105,103,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(302).jpg 162,1,279,102,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(303).jpg 166,117,217,168,0 244,59,268,72,0 213,31,269,54,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(305).jpg 35,68,106,103,0 137,65,233,115,0 245,99,299,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(306).jpg 37,27,103,112,0 247,82,275,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(307).jpg 57,79,70,110,0 82,103,129,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(31).jpg 46,78,92,99,0 184,92,216,116,0 234,84,271,97,0 125,77,180,100,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(313).jpg 192,138,260,194,0 2,101,185,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(314).jpg 0,94,25,114,0 38,88,68,101,0 98,94,114,109,0 212,29,294,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(315).jpg 109,0,146,87,0 154,0,217,86,0 229,3,270,92,0 82,50,104,73,0 5,71,24,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(316).jpg 0,71,273,171,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(317).jpg 47,108,183,164,0 95,49,178,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(32).jpg 122,8,182,93,0 90,98,275,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(321).jpg 223,86,238,95,0 14,70,24,78,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(322).jpg 225,100,267,149,0 158,58,219,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(323).jpg 152,128,181,148,0 107,130,133,146,0 58,132,69,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(324).jpg 247,60,259,101,0 52,87,66,107,0 179,23,197,44,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(325).jpg 147,9,265,86,0 1,15,126,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(326).jpg 20,10,49,53,0 66,42,108,56,0 182,38,204,62,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(327).jpg 144,87,197,143,0 67,97,104,135,0 14,106,44,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(33).jpg 58,76,107,138,0 149,59,168,78,0 115,125,140,137,0 216,29,281,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(330).jpg 76,99,110,120,0 121,84,145,100,0 142,49,187,80,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(331).jpg 128,20,156,92,0 5,84,149,129,0 135,107,258,193,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(332).jpg 0,20,9,57,0 62,12,89,33,0 111,25,182,81,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(334).jpg 311,15,389,129,0 208,14,278,129,0 0,0,104,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(335).jpg 139,65,149,78,0 79,53,114,70,0 31,34,67,58,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(336).jpg 49,92,97,132,0 168,115,182,129,0 103,138,135,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(337).jpg 25,125,44,153,0 45,19,255,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(338).jpg 24,63,73,84,0 150,71,224,92,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(34).jpg 189,10,292,80,0 274,113,288,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(340).jpg 103,51,122,115,0 181,3,199,52,0 274,102,293,143,0 90,115,176,168,0 0,145,20,168,0 5,59,21,81,0 143,62,158,80,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(341).jpg 0,101,28,157,0 92,109,186,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(342).jpg 28,101,53,115,0 0,83,19,103,0 53,97,103,125,0 141,74,194,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(346).jpg 119,103,174,145,0 178,109,257,143,0 267,109,298,134,0 43,73,63,92,0 0,59,33,82,0 77,83,99,97,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(348).jpg 182,10,238,68,0 185,81,210,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(350).jpg 30,71,74,83,0 132,63,156,80,0 188,62,232,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(351).jpg 64,71,92,144,0 199,57,220,149,0 227,86,263,151,0 4,71,47,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(352).jpg 171,5,223,121,0 0,52,74,177,0 80,106,190,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(357).jpg 0,159,68,190,0 80,167,134,184,0 147,143,177,170,0 188,93,258,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(359).jpg 98,147,144,173,0 222,181,238,197,0 56,150,85,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(36).jpg 177,43,213,82,0 79,9,167,43,0 233,51,256,75,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(360).jpg 156,24,218,73,0 85,90,182,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(361).jpg 0,82,78,110,0 206,87,284,132,0 81,86,200,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(363).jpg 135,12,265,134,0 0,73,131,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(364).jpg 94,59,144,115,0 142,74,242,128,0 244,110,276,146,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(367).jpg 227,66,245,84,0 153,59,181,78,0 201,83,254,102,0 256,140,268,153,0 90,43,119,63,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(369).jpg 18,102,66,127,0 70,90,139,118,0 143,78,182,108,0 214,83,298,117,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(37).jpg 183,18,223,36,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(370).jpg 2,133,41,148,0 83,117,109,143,0 147,114,175,142,0 201,125,229,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(371).jpg 4,106,166,162,0 169,118,272,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(372).jpg 41,45,103,164,0 12,78,41,88,0 119,75,174,110,0 109,93,236,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(375).jpg 112,41,193,174,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(379).jpg 152,116,186,134,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(38).jpg 0,101,45,162,0 43,0,71,67,0 123,96,187,160,0 196,126,235,146,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(380).jpg 81,53,202,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(382).jpg 2,36,71,64,0 90,67,121,86,0 135,62,217,85,0 241,48,253,60,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(383).jpg 0,91,168,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(384).jpg 17,40,59,61,0 70,56,170,115,0 260,63,285,84,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(385).jpg 18,60,204,114,0 286,55,296,79,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(386).jpg 73,116,114,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(389).jpg 217,43,257,124,0 155,0,208,117,0 2,121,84,151,0 89,85,153,150,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(39).jpg 13,79,47,159,0 138,45,189,153,0 67,80,105,156,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(391).jpg 189,15,282,140,0 0,19,30,141,0 70,104,180,161,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(392).jpg 186,55,218,68,0 110,71,161,98,0 69,85,98,103,0 0,69,60,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(393).jpg 30,126,48,137,0 136,138,156,154,0 176,138,201,158,0 225,152,268,169,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(394).jpg 86,97,140,125,0 36,120,63,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(395).jpg 38,157,69,183,0 35,3,87,51,0 141,35,185,114,0 195,46,216,107,0 251,16,275,79,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(396).jpg 178,22,239,103,0 157,108,221,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(397).jpg 42,63,88,75,0 102,89,119,99,0 224,109,260,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(4).jpg 256,118,292,128,0 172,34,216,86,0 140,89,161,109,0 43,98,66,117,0 82,90,128,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(40).jpg 79,54,98,67,0 52,67,64,80,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(401).jpg 105,52,129,72,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(402).jpg 110,109,141,123,0 166,115,221,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(403).jpg 104,70,144,116,0 225,44,253,83,0 30,80,52,109,0 59,108,71,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(404).jpg 93,82,122,96,0 221,82,268,102,0 128,87,188,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(410).jpg 2,88,143,182,0 118,43,277,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(411).jpg 6,3,196,162,0 228,9,266,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(413).jpg 26,9,134,94,0 150,33,176,108,0 186,72,244,112,0 44,101,299,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(414).jpg 26,75,239,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(416).jpg 92,104,133,151,0 170,109,205,152,0 218,91,281,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(417).jpg 57,110,80,124,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(420).jpg 245,97,282,148,0 53,41,117,67,0 300,138,315,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(421).jpg 121,116,176,164,0 182,67,231,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(422).jpg 0,78,107,141,0 115,94,237,127,0 241,77,310,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(423).jpg 168,73,191,114,0 122,111,136,124,0 72,121,87,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(424).jpg 0,139,29,180,0 208,54,226,109,0 183,39,208,129,0 126,32,178,172,0 81,58,124,175,0 42,89,79,173,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(425).jpg 143,120,182,137,0 200,2,271,79,0 211,118,301,134,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(426).jpg 3,103,46,118,0 217,51,231,78,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(427).jpg 43,108,87,163,0 93,147,212,194,0 141,115,176,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(428).jpg 43,75,63,103,0 217,58,246,76,0 97,22,150,63,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(429).jpg 2,37,202,210,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(43).jpg 7,82,78,148,0 122,30,307,140,0 79,148,138,164,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(430).jpg 195,118,221,139,0 117,88,131,102,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(431).jpg 1,0,126,110,0 203,0,406,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(434).jpg 12,100,89,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(436).jpg 73,147,155,168,0 143,72,166,86,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(437).jpg 33,145,65,175,0 110,97,176,169,0 0,161,14,177,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(438).jpg 1,67,63,121,0 137,85,228,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(439).jpg 16,73,110,80,0 35,84,117,88,0 65,88,296,104,0 163,108,192,118,0 114,109,136,117,0 122,145,165,160,0 148,119,164,128,0 183,118,214,131,0 228,114,252,125,0 267,117,300,128,0 233,130,269,140,0 188,148,209,164,0 259,142,300,148,0 119,124,140,134,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(44).jpg 176,87,202,105,0 195,120,218,142,0 187,145,206,175,0 106,95,133,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(440).jpg 100,131,127,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(441).jpg 144,28,234,87,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(442).jpg 137,93,246,111,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(443).jpg 73,101,141,137,0 123,73,167,98,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(444).jpg 49,142,95,164,0 123,132,159,154,0 168,109,262,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(445).jpg 31,92,53,116,0 124,123,176,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(447).jpg 111,31,148,130,0 56,71,82,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(448).jpg 122,0,169,29,0 184,46,217,68,0 233,70,270,137,0 147,143,187,167,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(45).jpg 91,33,112,65,0 30,50,56,69,0 43,88,161,138,0 206,96,259,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(452).jpg 58,60,94,64,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(454).jpg 24,108,68,126,0 75,119,138,134,0 160,118,179,133,0 257,131,299,143,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(455).jpg 157,98,199,132,0 3,149,85,185,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(457).jpg 154,10,276,85,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(458).jpg 0,81,189,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(459).jpg 7,55,57,145,0 211,83,255,162,0 124,15,210,135,0 42,27,122,148,0 22,162,62,186,0 109,136,263,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(460).jpg 0,118,14,125,0 30,100,72,123,0 81,84,136,114,0 141,82,247,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(462).jpg 84,90,153,118,0 175,51,233,108,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(464).jpg 95,131,107,140,0 115,120,196,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(466).jpg 3,19,90,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(469).jpg 216,113,231,149,0 241,142,269,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(47).jpg 192,41,229,75,0 43,54,67,77,0 0,92,26,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(470).jpg 110,79,240,155,0 83,120,105,171,0 54,129,78,168,0 10,116,33,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(471).jpg 183,17,269,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(473).jpg 90,79,116,113,0 189,92,245,132,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(475).jpg 10,126,23,135,0 165,121,189,134,0 61,99,92,113,0 231,92,248,101,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(476).jpg 187,52,207,84,0 218,55,300,106,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(478).jpg 104,19,141,127,0 3,103,240,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(48).jpg 197,148,246,161,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(484).jpg 131,68,182,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(485).jpg 219,112,268,132,0 2,125,199,144,0 212,76,251,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(488).jpg 78,39,98,52,0 4,34,38,45,0 114,15,137,32,0 168,35,194,51,0 198,34,228,53,0 244,46,254,55,0 242,93,255,108,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(489).jpg 48,108,72,138,0 39,153,89,194,0 113,12,132,60,0 92,115,122,143,0 150,174,188,194,0 138,19,159,40,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(49).jpg 181,44,199,114,0 207,100,279,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(492).jpg 6,23,55,146,0 77,56,133,115,0 144,88,176,155,0 190,121,242,170,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(493).jpg 1,88,280,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(494).jpg 45,65,104,102,0 117,33,163,108,0 175,71,219,117,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(495).jpg 141,50,194,105,0 6,147,32,166,0 112,102,145,153,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(497).jpg 129,128,142,152,0 89,133,105,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(50).jpg 131,59,198,90,0 25,63,46,78,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(501).jpg 124,75,197,134,0 84,140,103,153,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(502).jpg 238,113,273,145,0 144,83,217,138,0 40,95,138,139,0 0,124,47,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(506).jpg 1,111,46,135,0 53,118,139,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(507).jpg 110,42,205,118,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(508).jpg 235,117,268,132,0 88,120,112,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(51).jpg 232,47,296,72,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(510).jpg 39,117,71,150,0 164,111,195,129,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(512).jpg 6,71,68,93,0 195,130,245,155,0 136,18,156,28,0 3,9,23,14,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(513).jpg 23,45,41,91,0 57,52,98,74,0 103,10,156,57,0 216,60,227,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(514).jpg 38,26,85,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(515).jpg 0,121,38,132,0 46,104,246,129,0 178,84,258,102,0 91,91,162,102,0 3,88,87,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(516).jpg 0,14,82,122,0 96,7,284,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(517).jpg 1,55,64,144,0 81,30,205,146,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(519).jpg 75,61,106,109,0 122,42,226,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(52).jpg 255,41,303,75,0 32,24,251,75,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(520).jpg 171,99,198,167,0 0,130,158,254,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(524).jpg 1,112,87,135,0 132,61,160,107,0 161,112,262,170,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(525).jpg 27,12,209,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(527).jpg 139,126,179,149,0 217,81,229,96,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(529).jpg 0,211,29,238,0 104,205,126,220,0 48,204,71,214,0 17,248,35,256,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(530).jpg 111,62,145,76,0 52,38,95,62,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(531).jpg 9,6,300,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(534).jpg 77,3,148,112,0 223,55,241,96,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(535).jpg 0,88,60,128,0 86,85,128,129,0 155,83,213,124,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(537).jpg 2,54,71,171,0 93,36,143,65,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(539).jpg 147,129,202,171,0 50,98,67,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(541).jpg 108,75,176,100,0 6,86,60,101,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(542).jpg 137,153,220,182,0 0,78,162,134,0 181,43,242,89,0 186,79,271,170,0 63,121,156,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(543).jpg 21,96,89,121,0 112,90,238,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(544).jpg 4,34,43,92,0 115,3,159,67,0 63,173,91,275,0 115,77,147,161,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(546).jpg 29,69,87,183,0 92,85,158,165,0 181,106,236,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(547).jpg 12,2,295,113,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(548).jpg 136,108,223,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(549).jpg 3,96,108,111,0 116,77,224,104,0 251,68,290,83,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(55).jpg 137,88,186,135,0 76,17,197,90,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(550).jpg 10,68,50,108,0 142,99,173,128,0 174,17,277,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(552).jpg 28,155,94,220,0 101,27,191,214,0 198,196,226,212,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(553).jpg 101,75,196,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(554).jpg 40,31,219,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(555).jpg 204,134,279,177,0 47,84,93,141,0 0,26,40,87,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(56).jpg 1,93,135,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(562).jpg 2,78,191,132,0 217,92,274,124,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(563).jpg 56,145,83,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(568).jpg 0,83,203,193,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(569).jpg 75,26,280,143,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(57).jpg 100,35,109,55,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(570).jpg 208,97,262,123,0 61,109,92,131,0 160,133,191,143,0 11,111,31,135,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(571).jpg 121,83,137,128,0 173,40,208,124,0 235,55,276,99,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(574).jpg 77,76,119,96,0 0,85,63,112,0 66,39,86,47,0 203,46,314,67,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(575).jpg 29,3,187,241,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(576).jpg 160,86,230,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(577).jpg 29,12,127,184,0 149,155,165,180,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(578).jpg 22,70,55,88,0 111,29,143,47,0 92,91,115,100,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(581).jpg 57,59,80,87,0 118,86,142,101,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(584).jpg 186,57,236,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(585).jpg 202,122,280,149,0 197,94,223,115,0 12,76,41,94,0 161,88,187,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(586).jpg 17,32,120,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(587).jpg 47,128,81,158,0 47,58,87,98,0 15,148,36,163,0 113,54,186,84,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(589).jpg 231,94,275,121,0 151,102,223,143,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(59).jpg 84,27,137,81,0 174,38,210,62,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(590).jpg 181,16,273,135,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(591).jpg 49,124,89,169,0 94,105,145,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(592).jpg 90,108,139,128,0 160,97,201,114,0 53,96,82,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(594).jpg 43,188,204,224,0 118,90,225,149,0 132,154,194,170,0 26,171,67,182,0 16,83,92,146,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(595).jpg 105,28,249,82,0 112,99,138,112,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(596).jpg 89,143,204,167,0 0,141,58,171,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(598).jpg 43,78,90,110,0 177,112,203,129,0 222,112,237,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(60).jpg 49,28,245,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(600).jpg 1,95,259,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(601).jpg 147,100,204,140,0 34,177,48,188,0 8,150,86,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(602).jpg 4,104,58,141,0 68,99,111,133,0 116,56,204,137,0 237,124,271,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(604).jpg 50,86,94,101,0 25,86,37,97,0 55,142,79,150,0 134,146,153,152,0 196,146,216,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(605).jpg 185,5,254,57,0 0,0,177,35,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(608).jpg 35,39,122,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(609).jpg 96,61,129,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(61).jpg 192,103,224,127,0 26,102,177,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(610).jpg 43,102,112,149,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(612).jpg 117,141,151,173,0 0,59,136,128,0 103,0,145,33,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(617).jpg 2,142,288,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(618).jpg 8,23,142,74,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(622).jpg 88,36,170,87,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(624).jpg 3,53,85,95,0 208,63,287,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(626).jpg 113,23,170,167,0 58,90,111,153,0 8,114,46,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(628).jpg 152,4,275,102,0 0,29,105,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(629).jpg 128,31,230,153,0 54,84,103,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(63).jpg 124,96,189,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(631).jpg 101,133,185,159,0 53,133,67,147,0 31,89,89,122,0 139,66,172,103,0 183,82,240,107,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(632).jpg 96,101,273,136,0 3,3,272,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(633).jpg 72,83,120,109,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(636).jpg 8,97,69,155,0 82,97,315,160,0 116,6,275,80,0 6,41,112,80,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(637).jpg 0,165,29,183,0 4,66,32,95,0 76,2,115,25,0 73,73,144,114,0 85,125,129,153,0 37,109,47,133,0 162,71,216,111,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(638).jpg 55,61,113,107,0 122,42,219,111,0 173,2,209,31,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(641).jpg 144,11,219,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(642).jpg 103,31,182,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(643).jpg 118,6,164,35,0 206,16,253,54,0 175,116,209,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(644).jpg 93,121,131,167,0 151,84,208,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(645).jpg 249,64,315,142,0 0,3,43,85,0 165,110,226,146,0 1,101,87,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(647).jpg 22,2,111,143,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(648).jpg 5,117,46,140,0 91,76,181,112,0 256,126,275,145,0 181,128,223,156,0 103,136,115,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(651).jpg 1,126,80,192,0 122,127,164,151,0 181,79,259,142,0 181,183,204,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(652).jpg 78,61,125,103,0 153,7,278,76,0 174,125,203,160,0 240,139,283,163,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(654).jpg 154,125,237,188,0 82,63,136,107,0 59,9,77,61,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(656).jpg 171,3,238,79,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(658).jpg 6,51,53,94,0 59,80,98,100,0 104,64,145,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(659).jpg 68,149,136,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(66).jpg 0,155,26,178,0 55,148,108,164,0 163,143,195,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(661).jpg 129,57,201,92,0 21,91,120,114,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(663).jpg 241,72,275,87,0 17,55,31,66,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(664).jpg 42,81,114,106,0 148,92,208,127,0 176,60,199,88,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(665).jpg 11,119,80,151,0 186,87,232,154,0 251,85,297,153,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(667).jpg 2,126,37,159,0 5,61,35,82,0 72,40,138,62,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(669).jpg 43,22,125,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(67).jpg 4,12,185,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(670).jpg 171,152,207,184,0 197,56,233,82,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(672).jpg 0,130,60,185,0 173,87,248,145,0 60,81,111,148,0 127,82,149,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(673).jpg 17,119,53,137,0 83,87,125,139,0 145,112,172,140,0 189,133,303,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(674).jpg 58,96,89,122,0 86,127,139,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(676).jpg 155,76,223,139,0 75,52,149,123,0 0,40,62,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(679).jpg 135,63,203,94,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(684).jpg 193,86,285,174,0 138,129,190,174,0 58,86,130,172,0 0,123,55,172,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(686).jpg 2,71,35,130,0 74,83,131,125,0 142,96,166,123,0 172,95,216,143,0 246,95,310,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(688).jpg 0,43,23,117,0 39,58,131,125,0 143,99,179,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(690).jpg 165,100,221,120,0 240,104,308,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(692).jpg 133,87,154,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(693).jpg 156,123,215,167,0 64,14,145,118,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(694).jpg 71,63,179,138,0 188,13,253,69,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(697).jpg 28,120,66,152,0 72,120,108,144,0 116,101,140,137,0 147,102,214,130,0 240,107,275,122,0 0,132,23,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(698).jpg 19,118,41,136,0 143,138,174,169,0 228,109,259,124,0 67,103,82,113,0 80,124,106,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(699).jpg 215,126,240,146,0 97,122,117,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(7).jpg 121,61,139,92,0 157,84,178,120,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(704).jpg 137,122,179,147,0 87,106,126,142,0 192,39,272,72,0 113,79,188,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(705).jpg 17,90,67,123,0 0,136,48,164,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(706).jpg 0,52,121,137,0 227,45,317,146,0 136,41,221,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(707).jpg 31,24,98,59,0 147,52,198,84,0 238,87,273,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(708).jpg 122,142,176,165,0 41,117,58,130,0 102,156,141,178,0 187,153,197,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(709).jpg 31,82,68,94,0 131,86,223,97,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(71).jpg 33,43,74,85,0 40,104,68,125,0 151,89,160,104,0 293,104,307,113,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(711).jpg 184,149,212,168,0 2,162,42,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(712).jpg 52,124,96,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(714).jpg 111,7,174,118,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(717).jpg 47,102,70,115,0 52,83,74,96,0 144,45,156,69,0 173,121,209,141,0 92,88,116,95,0 221,143,242,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(719).jpg 10,58,99,95,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(72).jpg 85,65,113,83,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(720).jpg 143,80,184,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(722).jpg 113,137,133,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(723).jpg 213,157,244,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(724).jpg 68,97,84,135,0 160,86,227,126,0 90,123,156,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(727).jpg 149,78,200,110,0 34,92,111,112,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(729).jpg 34,148,75,168,0 83,140,300,165,0 245,79,253,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(733).jpg 21,67,112,94,0 116,73,165,130,0 199,88,221,107,0 230,99,259,121,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(739).jpg 3,16,143,131,0 212,13,259,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(74).jpg 150,34,284,167,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(740).jpg 0,76,130,181,0 135,48,272,176,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(741).jpg 0,143,32,162,0 87,44,299,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(742).jpg 103,7,163,159,0 19,127,95,160,0 57,163,164,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(744).jpg 37,83,64,117,0 39,45,71,68,0 15,139,43,160,0 82,95,126,138,0 148,68,181,83,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(745).jpg 97,138,165,160,0 143,101,181,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(746).jpg 60,60,124,102,0 121,82,207,142,0 53,139,272,177,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(747).jpg 110,114,134,138,0 161,125,189,183,0 2,113,22,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(748).jpg 111,61,253,153,0 3,20,107,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(749).jpg 33,85,63,117,0 73,94,95,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(75).jpg 158,58,275,117,0 52,45,150,127,0 0,88,43,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(750).jpg 81,31,125,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(751).jpg 51,49,124,102,0 196,68,282,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(754).jpg 171,11,229,153,0 232,112,269,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(755).jpg 3,66,41,127,0 56,82,153,152,0 156,13,247,133,0 224,115,259,178,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(756).jpg 67,77,119,90,0 127,84,143,94,0 159,86,208,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(76).jpg 182,109,249,131,0 20,68,144,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(760).jpg 91,137,114,165,0 135,146,172,165,0 198,149,208,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(761).jpg 36,96,80,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(762).jpg 1,29,56,143,0 63,3,259,129,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(764).jpg 100,19,148,180,0 177,79,226,179,0 14,139,91,181,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(766).jpg 72,22,126,185,0 0,114,60,211,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(767).jpg 27,94,58,121,0 227,121,259,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(768).jpg 193,42,279,84,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(769).jpg 56,122,85,137,0 100,129,122,149,0 145,110,175,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(77).jpg 90,58,149,87,0 189,64,244,99,0 268,67,299,87,0 7,72,46,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(770).jpg 172,91,203,113,0 22,137,44,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(772).jpg 17,83,238,136,0 182,14,331,84,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(773).jpg 20,1,179,77,0 45,83,259,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(774).jpg 201,48,239,79,0 245,83,260,125,0 251,133,275,158,0 198,123,222,142,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(775).jpg 30,45,177,99,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(777).jpg 109,126,140,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(78).jpg 113,114,148,127,0 31,105,68,123,0 227,110,242,122,0 253,109,271,119,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(780).jpg 72,44,149,112,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(781).jpg 123,2,298,109,0 3,94,197,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(784).jpg 205,146,273,164,0 5,136,150,170,0 52,4,88,72,0 169,122,205,162,0 217,3,246,48,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(785).jpg 193,92,258,138,0 4,161,64,181,0 103,153,180,180,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(789).jpg 88,82,182,135,0 75,142,244,167,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(79).jpg 201,41,250,130,0 2,76,74,140,0 102,36,190,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(790).jpg 144,101,259,150,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(791).jpg 16,65,106,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(792).jpg 38,27,75,111,0 10,96,31,115,0 216,43,257,116,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(793).jpg 33,82,55,112,0 57,86,70,113,0 90,94,115,131,0 168,96,183,135,0 198,93,208,137,0 130,101,150,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(794).jpg 87,117,103,140,0 78,62,100,82,0 120,45,150,54,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(797).jpg 2,58,284,159,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(798).jpg 197,78,269,138,0 301,117,324,139,0 156,4,200,56,0 216,13,261,59,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(801).jpg 100,109,158,153,0 166,116,209,149,0 221,100,250,133,0 240,62,287,117,0 11,99,34,115,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(802).jpg 28,240,49,252,0 106,248,130,256,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(804).jpg 56,92,81,157,0 119,15,207,149,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(805).jpg 62,52,98,120,0 130,17,235,128,0 0,106,36,125,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(807).jpg 1,78,147,135,0 154,43,202,151,0 208,64,251,142,0 255,112,300,151,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(808).jpg 7,158,62,194,0 225,140,255,175,0 97,168,142,193,0 128,145,172,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(809).jpg 47,21,90,85,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(811).jpg 165,46,199,85,0 94,102,154,126,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(812).jpg 225,2,285,36,0 49,9,225,103,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(815).jpg 75,74,192,165,0 195,36,258,160,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(817).jpg 192,76,245,86,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(818).jpg 35,159,60,175,0 119,123,147,140,0 152,132,199,150,0 199,159,214,173,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(819).jpg 158,45,187,72,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(821).jpg 228,80,257,102,0 118,117,212,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(822).jpg 209,148,257,184,0 15,18,113,151,0 124,88,204,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(827).jpg 72,119,115,146,0 191,67,220,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(829).jpg 127,27,139,55,0 215,137,259,186,0 147,136,206,184,0 87,156,141,193,0 0,105,81,178,0 89,117,108,148,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(830).jpg 169,39,210,87,0 117,162,149,194,0 66,179,89,194,0 154,121,175,143,0 168,99,185,114,0 86,154,112,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(831).jpg 117,95,136,128,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(832).jpg 206,136,245,168,0 259,100,300,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(834).jpg 0,134,23,159,0 2,8,280,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(835).jpg 58,106,154,120,0 166,114,268,127,0 31,120,65,135,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(837).jpg 125,98,136,108,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(838).jpg 1,54,82,139,0 89,48,139,127,0 186,11,228,70,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(839).jpg 6,22,200,168,0 236,143,265,174,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(84).jpg 28,142,102,157,0 83,89,97,111,0 115,141,164,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(841).jpg 37,78,69,100,0 11,82,29,101,0 17,40,56,49,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(843).jpg 73,148,114,162,0 223,4,243,54,0 198,174,244,194,0 121,65,195,184,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(844).jpg 69,5,198,181,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(845).jpg 202,114,233,146,0 109,8,131,110,0 162,12,191,114,0 77,130,137,155,0 238,147,270,169,0 236,60,271,114,0 2,35,39,130,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(846).jpg 123,52,212,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(847).jpg 176,85,233,109,0 79,96,112,111,0 6,76,67,110,0 73,125,111,150,0 23,134,53,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(848).jpg 2,149,86,172,0 97,146,191,167,0 199,125,222,161,0 229,122,275,135,0 158,100,268,117,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(856).jpg 9,102,130,136,0 138,84,178,117,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(858).jpg 104,5,167,125,0 196,140,226,164,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(859).jpg 49,1,294,114,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(86).jpg 40,103,68,134,0 147,63,221,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(861).jpg 41,3,106,149,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(864).jpg 237,85,311,112,0 330,31,358,76,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(865).jpg 48,100,70,111,0 137,59,158,79,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(866).jpg 161,130,205,191,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(867).jpg 174,122,278,179,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(87).jpg 101,10,129,56,0 102,59,256,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(871).jpg 2,217,162,246,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(872).jpg 82,39,138,88,0 192,57,274,91,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(873).jpg 38,153,127,182,0 179,142,275,169,0 185,26,230,117,0 113,30,170,119,0 54,33,96,107,0 4,61,49,103,0 6,121,117,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(874).jpg 18,68,71,172,0 87,35,140,167,0 186,61,220,170,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(876).jpg 104,55,178,144,0 54,81,101,146,0 1,100,30,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(877).jpg 219,54,263,75,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(878).jpg 40,3,175,147,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(881).jpg 183,66,284,161,0 0,30,135,162,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(882).jpg 117,82,172,103,0 163,108,178,125,0 257,126,268,138,0 35,65,52,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(885).jpg 151,98,198,132,0 211,114,272,150,0 53,91,88,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(886).jpg 83,12,130,102,0 151,79,259,139,0 246,14,310,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(888).jpg 72,90,99,110,0 233,80,276,99,0 9,108,25,118,0 174,111,204,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(889).jpg 162,11,246,83,0 20,17,151,106,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(89).jpg 180,65,275,121,0 95,119,203,183,0 36,85,98,106,0 1,152,40,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(890).jpg 156,20,217,61,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(892).jpg 16,49,167,105,0 160,124,227,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(893).jpg 240,131,296,167,0 0,74,147,167,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(898).jpg 1,57,270,158,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(900).jpg 133,42,232,139,0 225,63,260,110,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(901).jpg 96,41,153,151,0 183,2,251,71,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(903).jpg 91,65,125,105,0 126,127,200,194,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(904).jpg 163,48,259,127,0 2,102,125,160,0 128,43,160,131,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(905).jpg 82,141,217,158,0 2,104,254,127,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(906).jpg 76,19,127,112,0 143,14,234,141,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(908).jpg 114,126,162,164,0 223,45,239,66,0 175,73,193,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(91).jpg 33,107,81,132,0 101,95,144,111,0 171,77,220,96,0 235,75,259,88,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(910).jpg 21,56,64,105,0 119,44,155,97,0 174,51,206,75,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(913).jpg 130,28,175,82,0 106,69,130,98,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(914).jpg 0,127,34,177,0 129,108,157,153,0 196,69,254,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(915).jpg 235,99,262,128,0 125,94,187,113,0 29,85,47,101,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(917).jpg 85,66,110,92,0 148,79,194,127,0 182,117,242,149,0 48,9,125,81,0 0,32,27,98,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(92).jpg 14,147,71,183,0 87,137,136,168,0 136,115,195,153,0 197,94,241,133,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(920).jpg 115,69,210,112,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(921).jpg 62,6,276,142,0 0,3,45,156,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(922).jpg 72,123,97,163,0 168,94,215,108,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(924).jpg 4,114,100,183,0 154,85,178,113,0 189,121,208,134,0 223,158,247,174,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(927).jpg 68,11,88,26,0 82,43,115,77,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(928).jpg 43,114,62,139,0 204,41,221,92,0 167,174,207,187,0 220,108,242,167,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(929).jpg 129,70,148,159,0 152,16,175,95,0 90,11,115,30,0 124,3,152,25,0 176,38,195,84,0 238,21,274,102,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(93).jpg 149,137,168,154,0 176,154,199,166,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(930).jpg 204,87,233,137,0 238,102,300,156,0 135,77,199,141,0 0,69,123,128,0 118,151,147,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(934).jpg 21,2,275,183,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(936).jpg 28,127,50,154,0 77,133,99,151,0 112,149,123,167,0 173,155,216,189,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(937).jpg 157,95,195,163,0 71,1,156,88,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(938).jpg 90,99,107,113,0 171,81,182,93,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(94).jpg 0,81,50,139,0 55,123,67,137,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(941).jpg 38,77,82,139,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(942).jpg 116,45,168,68,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(943).jpg 6,65,256,138,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(945).jpg 143,92,157,102,0 161,92,232,106,0 242,105,273,125,0 111,103,138,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(948).jpg 93,139,262,158,0 94,84,189,134,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(949).jpg 0,87,74,149,0 117,31,153,54,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(950).jpg 72,6,213,186,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(951).jpg 183,121,194,133,0 229,144,249,155,0 165,141,181,152,0 90,54,99,85,0 13,124,51,141,0 4,158,64,174,0 101,129,111,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(952).jpg 207,124,275,178,0 112,101,195,162,0 13,101,111,144,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(953).jpg 47,75,119,97,0 129,71,144,102,0 153,54,249,173,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(955).jpg 283,91,331,128,0 229,84,275,113,0 36,71,207,104,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(956).jpg 39,111,87,166,0 100,51,192,123,0 204,0,248,57,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(957).jpg 116,10,186,225,0 198,121,224,189,0 50,152,114,225,0 4,123,46,220,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(958).jpg 130,74,144,94,0 228,69,249,83,0 41,72,84,91,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(959).jpg 0,208,29,274,0 39,202,182,273,0 94,164,163,181,0 89,90,111,144,0 2,142,68,165,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(96).jpg 21,38,53,70,0 59,32,162,49,0 220,40,264,73,0 135,66,234,167,0 261,114,297,136,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(960).jpg 124,13,182,95,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(962).jpg 90,1,151,97,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(963).jpg 30,77,190,96,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(964).jpg 42,6,113,55,0 146,76,231,122,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(966).jpg 205,94,239,161,0 91,66,191,140,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(967).jpg 0,62,53,80,0 167,110,245,137,0 273,134,326,155,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(969).jpg 36,34,84,50,0 102,25,141,49,0 158,34,211,59,0 19,73,298,115,0 0,144,93,157,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(97).jpg 0,84,24,153,0 48,110,227,158,0 152,26,282,106,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(970).jpg 16,122,79,165,0 87,79,153,146,0 225,92,284,128,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(971).jpg 56,125,131,182,0 135,51,208,122,0 244,9,276,39,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(972).jpg 127,134,141,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(975).jpg 243,88,300,126,0 75,157,104,168,0 0,153,21,168,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(977).jpg 121,83,236,149,0 244,68,293,143,0 1,76,118,152,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(981).jpg 19,134,64,180,0 125,121,259,166,0 84,74,155,113,0 77,146,112,182,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(982).jpg 0,76,44,124,0 53,2,111,105,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(984).jpg 25,124,58,160,0 152,39,216,60,0 241,39,282,64,0 88,35,120,65,0 71,125,98,145,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(985).jpg 87,106,111,116,0 221,70,265,82,0 138,101,152,114,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(986).jpg 71,99,132,119,0 139,109,230,123,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(987).jpg 11,4,145,122,0 34,124,170,275,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(989).jpg 97,72,124,193,0 33,81,79,188,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(99).jpg 75,50,99,67,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(991).jpg 2,5,35,58,0 215,47,284,119,0 97,150,222,177,0 8,143,36,159,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(993).jpg 14,134,49,149,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(994).jpg 0,0,52,72,0 174,3,248,144,0 134,102,162,141,0 259,125,277,149,0 39,75,128,154,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(995).jpg 114,11,151,90,0 172,24,193,78,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(998).jpg 219,77,253,88,0 302,72,343,90,0 1,80,39,90,0 61,79,213,89,0
+E:\computerlearn\sourcecode\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/(999).jpg 32,3,302,138,0
